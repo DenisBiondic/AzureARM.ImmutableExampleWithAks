@@ -1,4 +1,4 @@
-# Azure.ImmutableArmAks
+# AzureARM.ImmutableExampleWithAks
 
 Simply execute deploy.sh script, but make sure you login first / select subscription (az login etc.):
 
